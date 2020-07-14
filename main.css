@@ -1,0 +1,68 @@
+
+.images {
+    
+    background-image: url("./images/CIUDAD.jpg");
+    height: 600px;
+    background-size: cover;
+}
+
+#facebook {
+    background-image: url("./images/facebook.png");
+    height: 43px;
+    width: 43px;
+    background-size: cover;
+}
+#outlook {
+    background-image: url("./images/outlook.png");
+    height: 43px;
+    width: 43px;
+    background-size: cover;
+}
+#gmail {
+    background-image: url("./images/gmail.png");
+    height: 43px;
+    width: 43px;
+    background-size: cover;
+}
+#maps {
+    background-image: url("./images/maps.png");
+    height: 43px;
+    width: 43px;
+    background-size: cover;
+}
+#traductor {
+    background-image: url("./images/traductor.png");
+    height: 43px;
+    width: 43px;
+    background-size: cover;
+}
+#instagram {
+    background-image: url("./images/instagram.png");
+    height: 43px;
+    width: 43px;
+    background-size: cover;
+}
+#whatsapp {
+    background-image: url("./images/whatsapp.png");
+    height: 43px;
+    width: 43px;
+    background-size: cover;
+}
+#youtube {
+    background-image: url("./images/youtube.png");
+    height: 43px;
+    width: 43px;
+    background-size: cover;
+    
+}
+/* h1{
+    text-align: center;
+    color: white;
+} */
+
+
+
+
+
+
+
